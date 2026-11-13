@@ -4,7 +4,7 @@
 
 ### Front-End Web Developer | Astronomy & Science Outreach
 
-[![GitHub](https://img.shields.io/badge/GitHub-SpacePhage-181717?style=for-the-badge&logo=github)](https://github.com/SpacePhage)
+[![GitHub](https://img.shields.io/badge/GitHub-SpacePhage-0E2849?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SpacePhage)
 
 </div>
 
@@ -82,6 +82,48 @@ An interactive astronomy website inspired by NASA's Astronomy Picture of the Day
 
 ---
 
+## 📖 Web Development Case Studies
+
+To provide a deeper look into my development processes, here are some case studies on my recent work. 
+
+### 🔭 Case Study 01 — Lowell Observatory Astrophotography
+
+**Project Type:** Astronomy Education Website
+
+**Focus Area:**
+- Responsive Web Development
+- Information Architecture
+- User Experience
+- Astronomy Outreach
+
+---
+
+### 📸 Case Study 02 — Personal Astrophotography Portfolio
+
+**Project Type:** Photography Portfolio Website
+
+**Focus Areas:**
+
+- Visual Design
+- Responsive Layouts
+- Portfolio Organization
+- User Experience
+
+---
+
+### 🌌 Case Study 03 — Astronomy Picture of the Day Explorer
+
+**Project Type:** Interactive Astronomy Application
+
+**Focus Areas:**
+
+- JavaScript Development
+- API Integration
+- Interactive User Interfaces
+- Science Communication
+
+---
+
 ## 🌱 What I'm Currently Learning
 
 Currently, I am working on expanding my programming knowledge of **Python** and exploring how it can work alongside JavaScript to support back-end functionality.
@@ -102,9 +144,9 @@ I'm always interested in opportunities involving web development, astronomy, sci
 
 🌐 **Portfolio:** Coming Soon
 
-💼 **LinkedIn:** [Connect With Me](https://www.linkedin.com/in/ryan-mayberry-646881339/)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-CEB35F?style=for-the-badge&logo=linkedin&logoColor=0E2849)](https://www.linkedin.com/in/ryan-mayberry-646881339/)
 
-💻 **GitHub:** [github.com/SpacePhage](https://github.com/SpacePhage)
+[![GitHub](https://img.shields.io/badge/EXPLORE_MY_GITHUB-0E2849?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SpacePhage)
 
 ---
 
