@@ -90,6 +90,8 @@ To provide a deeper look into my development processes, here are some case studi
 
 **Project Type:** Astronomy Education Website
 
+An astronomy-focused website designed to showcase astrophotography programs offered at Lowell Observatory.
+
 **Focus Area:**
 - Responsive Web Development
 - Information Architecture
@@ -101,6 +103,8 @@ To provide a deeper look into my development processes, here are some case studi
 ### 📸 Case Study 02 — Personal Astrophotography Portfolio
 
 **Project Type:** Photography Portfolio Website
+
+A personal website created to showcase my astrophotography and provide visitors with an opportunity to explore and purchase fine-art prints.
 
 **Focus Areas:**
 
@@ -114,6 +118,8 @@ To provide a deeper look into my development processes, here are some case studi
 ### 🌌 Case Study 03 — Astronomy Picture of the Day Explorer
 
 **Project Type:** Interactive Astronomy Application
+
+An interactive educational website that allows users to explore astronomy images and information through NASA's Astronomy Picture of the Day API. 
 
 **Focus Areas:**
 
